@@ -33,10 +33,8 @@ function Login() {
             </p>
             <p>
            
-              <i>
                 Login using Google:
             
-                </i>
             </p>
             <p>
            
