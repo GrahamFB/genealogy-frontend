@@ -7,7 +7,7 @@ function Navigation() {
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            Genealogy System Test
+            Genealogy System (Test)
           </NavLink>
           <div>
             <ul className="navbar-nav ml-auto">
@@ -18,8 +18,8 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/home">
-                  Home
+                <NavLink className="nav-link" to="/menu">
+                  Menu
                 </NavLink>
               </li>
               <li className="nav-item">

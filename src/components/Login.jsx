@@ -23,23 +23,23 @@ function Login() {
                   </b>
             </p>
             <p>
-           
+              <b>
                   Password:
-           
+                  </b>
             </p>
             <p>
            
                 or 
             </p>
             <p>
-           
-                Login using Google:
-            
+              <b>
+                Login using Google
+                </b>
             </p>
             <p>
-           
-                Login using Facebook:
-
+            <b>
+                Login using Facebook
+                </b>
             </p>
           </div>
         </div>

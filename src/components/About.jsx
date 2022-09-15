@@ -15,7 +15,7 @@ function About() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
             <p>
-              This app is design to display and update a genealogy database.
+              This app is designed to display and update a genealogy database.
             </p>
             <p>
                
@@ -29,7 +29,7 @@ function About() {
             <b>
                 <i>
                
-                   Version Date:  13 April 2022
+                   Version Date:  13 August 2022
                 </i>
               </b>
             </p>
